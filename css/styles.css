@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #AFD968;
 }
 
 .resume-main {
@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+    background-color: #C279E6;
 }
 
 /* Styles for lists in the document */
@@ -49,3 +49,21 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.rock-salt-regular {
+  font-family: "Rock Salt", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.your-expert-in-creative-business  {
+	color: darkorchid
+		
+		}
+
+		
+
+
+
+	
+	
